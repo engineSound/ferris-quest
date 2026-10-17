@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="🎲 Guess Game" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+    <option name="command" value="run --bin guess" />
+    <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <option name="emulateTerminal" value="true" />
+    <method v="2" />
+  </configuration>
+</component>

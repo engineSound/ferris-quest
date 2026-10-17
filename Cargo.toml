@@ -1,0 +1,8 @@
+[package]
+name = "ferris-quest"
+version = "0.1.0"
+edition = "2021"
+default-run = "quest"
+description = "Learn Rust the happy way: 14 bite-sized quests with Ferris the crab 🦀"
+
+[dependencies]

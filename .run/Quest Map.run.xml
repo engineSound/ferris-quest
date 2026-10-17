@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="🗺️ Quest Map" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+    <option name="command" value="run --bin quest" />
+    <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <option name="emulateTerminal" value="true" />
+    <method v="2" />
+  </configuration>
+</component>

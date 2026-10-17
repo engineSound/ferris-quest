@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="🧪 Run All Lessons" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+    <option name="command" value="test --no-fail-fast" />
+    <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <option name="emulateTerminal" value="true" />
+    <method v="2" />
+  </configuration>
+</component>
